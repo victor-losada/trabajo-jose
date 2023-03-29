@@ -1,0 +1,27 @@
+.flex-cotainer{
+    background-color: aqua;
+    width: 30px;
+    margin: 50px;
+
+
+}
+#container{
+   display: grid;
+   place-items: center;
+}
+.container{
+    
+   /*  background-color: blueviolet; */
+   padding: 0 60px;
+   width: 17px;
+   height: 300px;
+}
+p{
+    font-size: 30px;
+}
+img{
+    width: 1000%;
+    display: flex;
+    justify-content: right;
+
+}
